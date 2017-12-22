@@ -22,4 +22,4 @@ def deleteletter(first,second):
 def changeletter(first,second):
 	return reducedproblem(first[1:],second[1:])
 
-print(reducedproblem("poems","spam"))
+print(reducedproblem("spam","poem"))
